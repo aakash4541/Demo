@@ -24,7 +24,5 @@ Scanner sc=new Scanner(System.in);
 System.out.println("enter the radius");
 radius=sc.nextInt();
 c.area(radius);
-c.area(radius- diameter)
-circle radius=2
 }
 }
